@@ -36,10 +36,8 @@ body{
     margin: 10px 16px;
     color: white;
     border: 15px;
-    cursor: pointer;
-    width: 100px;
+    width: 120px;
     font-weight: 500;
-    transition: 0.5s;
 }
 
 #start {
@@ -69,25 +67,25 @@ body{
 
 @media screen and (max-width : 700px) {
     .time {
-        font-size: 60px;
+        font-size: 80px;
         color: #ffffff;
     }
 
     .text {
-        font-size: 20px;
+        font-size: 40px;
         color: #fffcd6;
     }
 
     .buttons {
         width: 90%;
         text-align: center;
-        margin-top: 40px;
+        margin-top: 30px;
     }
 
     .btn {
-        font-size: 18px;
+        font-size: 20px;
         margin: 7px 10px;
-        width: 75%;
+        width: 68%;
     }
 
     .time-container {
